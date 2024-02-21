@@ -1,3 +1,3 @@
-const sum = (a, b) => {
+const sumInteger = (a, b) => {
     return a + b;
 }
